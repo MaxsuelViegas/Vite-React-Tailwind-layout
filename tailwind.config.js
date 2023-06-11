@@ -11,5 +11,5 @@ theme:  {
         dimblue: "rgba(9, 151, 124, 0.1)",
     }, 
 fontFamily: {
-    poppins: ["Poppins"]
+    poppins: ["Poppins", "sans-serif"]
   },
