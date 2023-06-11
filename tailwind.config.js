@@ -13,3 +13,6 @@ theme:  {
 fontFamily: {
     poppins: ["Poppins", "sans-serif"]
   },
+screens: {
+    xs: "480px"
+  },
