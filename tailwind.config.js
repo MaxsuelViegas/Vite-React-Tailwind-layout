@@ -10,4 +10,6 @@ theme:  {
         dimWhite: "rgba(255, 255, 255, 0.7)",
         dimblue: "rgba(9, 151, 124, 0.1)",
     }, 
-fontFamily:
+fontFamily: {
+    poppins: ["Poppins"]
+  },
