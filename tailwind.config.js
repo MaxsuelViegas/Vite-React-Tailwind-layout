@@ -14,5 +14,6 @@ fontFamily: {
     poppins: ["Poppins", "sans-serif"]
   },
 screens: {
-    xs: "480px"
+    xs: "480px",
+    ss: "620px",
   },
