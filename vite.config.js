@@ -1,1 +1,1 @@
-import { defineConfig } 
+import { defineConfig } from 'vite'
